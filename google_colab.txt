@@ -1,0 +1,5 @@
+разбивка видео на кадры https://colab.research.google.com/drive/1P1E8BXXBSvvMgmRTc0cmGz8sbeBIFJNB?usp=sharing
+применение roboflow model  https://colab.research.google.com/drive/110G4VUxxIvmxXn6ZZ6xTEI6UTEroqXI0?usp=sharing
+перевод аннотаций из COCO в YOLO8  https://colab.research.google.com/drive/1ecQrlAT_-66P6XrfinZqxzao0qpue-8p?usp=sharing
+создание нового датасета,состоящего из вырезанных изображений людей, обучение yolo8 на этом датасете   https://colab.research.google.com/drive/1beNe6dfRBwXqiIAVb9tlDM6C7uF2q5jF?usp=sharing 
+fastApi https://colab.research.google.com/drive/1ZxrEp1JnCIxSlnrkYIVD2Bre9TRlW-Q6?usp=sharing
