@@ -1,6 +1,6 @@
 # RUDN
-Development of a system for detecting helmets on employees of the university laboratory (CV)
-Создание системы по распознаванию нарушителей без касок
+#### Development of a system for detecting helmets on employees of the university laboratory (CV)
+#### Создание системы по распознаванию нарушителей без касок
 
 #### gooogle_colab.txt
 #### Разработка велась в Google Colab, в данном файле перечислены все ссылки на разработку.
